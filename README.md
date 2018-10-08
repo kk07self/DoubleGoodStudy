@@ -7,5 +7,4 @@
 
 - [git 常用命令](./git.md)
 - [shell 脚本](./shell.md)
-- [vim 操作](../vim.md)
-- 
+- [vim 操作](./vim.md)
